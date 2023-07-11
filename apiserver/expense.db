@@ -1,0 +1,10 @@
+{"name":"Java Programming book","amount":242,"spendDate":{"$$date":1602720000000},"category":"Academic","_id":"91oLjvdHEWdXoRUJ"}
+{"name":"Dress","amount":2000,"spendDate":{"$$date":1603584000000},"category":"Cloth","_id":"9F8eMaOkQ8O5loFK"}
+{"name":"Exam Fees","amount":1245,"spendDate":{"$$date":1604448000000},"category":"Academic","_id":"PQVLws2f1DcDZzHR"}
+{"name":"Grape Juice","amount":30,"spendDate":{"$$date":1602460800000},"category":"Food","_id":"V9rrQnDJb3cChTSc"}
+{"name":"Meals","amount":300,"spendDate":{"$$date":1604016000000},"category":"Food","_id":"a89xH3q9OBgFA8Bp"}
+{"name":"Pizza","amount":80,"spendDate":{"$$date":1602288000000},"category":"Food","_id":"cOFFcRPuu8frE29V"}
+{"name":"Tour","amount":2555,"spendDate":{"$$date":1603929600000},"category":"Entertainment","_id":"gP9CN9mjXeQiCLY5"}
+{"name":"Mobile","amount":3500,"spendDate":{"$$date":1604275200000},"category":"Gadgets","_id":"gRlTKUrC8vDlwMuQ"}
+{"name":"Mango Juice","amount":35,"spendDate":{"$$date":1602806400000},"category":"Food","_id":"lOzc2sD282zdSV8z"}
+{"name":"Cinema","amount":210,"spendDate":{"$$date":1602806400000},"category":"Entertainment","_id":"oWTdsCwCi0AnVf8U"}
